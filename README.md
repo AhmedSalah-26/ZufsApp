@@ -22,4 +22,5 @@ zufsApp is your go-to app for keeping track of your device's battery status. Whe
 Whether you're looking to optimize your device's performance or just curious about your battery's status, zufsApp is the tool you need. With responsive design and accurate data, it’s a must-have for anyone serious about their device's health.
 
 
+<img width="188" alt="Screenshot 2024-08-26 235452" src="https://github.com/user-attachments/assets/a7538d74-4aa9-4ae2-80b4-05b6afff08ab">
 
